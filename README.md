@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Siyu Zhao
+**USF email address**:  szhao33@usfca.edu
